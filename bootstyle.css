@@ -1,0 +1,134 @@
+body {
+    background-image: url("assets/images/background.png")
+}
+
+.container {
+    background: #f8f9fa;
+   margin-top: 25px;
+    padding-bottom: 10px;
+} 
+
+.navbar-brand {
+    background: #4aaaa5;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 0%;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+}
+
+
+
+
+
+#profile {
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+
+
+footer {
+    background: gray;
+    margin-top: 100px;
+    
+}
+
+#footer {
+    color:white;
+    text-align: center;
+}
+
+#ipad {
+    width: 250px;
+    height:150px;
+    margin-bottom: 10px;
+    
+}
+
+#ipaddiv {
+    background: #4aaaa5;
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:100px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    
+
+}
+
+
+#earphone {
+    width:250px;
+    height: 150px;
+    margin-bottom: 10px;
+    
+}
+
+#earphonediv {
+    background: #4aaaa5;
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:100px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+}
+
+#tv {
+    width:250px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+#tvdiv {
+    background: #4aaaa5;
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:100px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    
+}
+
+#rpg {
+    width:250px;
+    height: 150px;
+    margin-bottom: 10px;
+}
+
+#rpgdiv {
+    background: #4aaaa5;
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:100px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    
+}
+
+#computer {
+    width:250px;
+    height: 150px;
+    
+}
+
+#computerdiv {
+    background: #4aaaa5;
+    width:250px;
+    height: 40px;
+    position: absolute;
+    margin-top:100px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+    
+}
