@@ -11,13 +11,19 @@ body {
 .navbar-brand {
     background: #4aaaa5;
     padding: 10px 10px 10px 10px;
-    margin-bottom: 0%;
-    color:white;
+    margin-bottom: -2%;
+    
     font-size: 22px;
     text-align: center;
 }
 
+.navbar-light .navbar-brand {
+    color: white;
+}
 
+h1 {
+color:#4aaaa5;
+}
 
 
 
